@@ -79,6 +79,7 @@ If you have an interesting project in mind or want to collaborate, feel free to 
 
 - **Twitter**: [@AeroChoclateDeveloper](https://twitter.com/AeroChoclateDeveloper)
 - **GitHub**: [@AeroChoclate](https://github.com/AeroChoclate)
+- **Nexus Mods**: [@AeroChoclate]([https://github.com/AeroChoclate](https://www.nexusmods.com/profile/AeroChoclate/mods))
 
 ---
 
