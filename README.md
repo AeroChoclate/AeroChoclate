@@ -44,6 +44,9 @@ A powerful Chrome extension designed to help you track and manage your subscript
 ### [LLM Project](https://github.com/AeroChoclate/llm-project)
 Currently creating a Large Language Model project. This is an exciting exploration into the world of AI and machine learning, pushing the boundaries of what's possible with language models.
 
+### [Schedule 1 Speed Mod](https://github.com/AeroChoclate/S1Speed/tree/main)
+A Schedule 1 mod that allows your to toggle a super speed with the press of a button.
+
 ---
 
 ## 📊 GitHub Statistics
@@ -79,7 +82,7 @@ If you have an interesting project in mind or want to collaborate, feel free to 
 
 - **Twitter**: [@AeroChoclateDeveloper](https://twitter.com/AeroChoclateDeveloper)
 - **GitHub**: [@AeroChoclate](https://github.com/AeroChoclate)
-- **Nexus Mods**: [@AeroChoclate]([https://github.com/AeroChoclate](https://www.nexusmods.com/profile/AeroChoclate/mods))
+- **Nexus Mods**: [@AeroChoclate]([https://github.com/AeroChoclate](https://www.nexusmods.com/profile/AeroChoclate/mods)
 
 ---
 
