@@ -47,6 +47,9 @@ Currently creating a Large Language Model project. This is an exciting explorati
 ### [Schedule 1 Speed Mod](https://github.com/AeroChoclate/S1Speed/tree/main)
 A Schedule 1 mod that allows your to toggle a super speed with the press of a button.
 
+### [Schedule 1 Realistic Bullet Proof Vest](https://github.com/AeroChoclate/S1RealisticBulletProofVest)
+A Schedule I mod that makes bulletproof vests actually resist bullets and mitigate damage.
+
 ---
 
 ## 📊 GitHub Statistics
