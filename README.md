@@ -41,8 +41,8 @@ I believe in clean code, continuous learning, and collaborating with brilliant m
 ### [TrackSub Extension For Chrome](https://github.com/AeroChoclate/tracksub-chrome-extension)
 A powerful Chrome extension designed to help you track and manage your subscriptions effortlessly. Stay on top of recurring charges and never miss important subscription details again.
 
-### [LLM Project](https://github.com/AeroChoclate/llm-project)
-Currently creating a Large Language Model project. This is an exciting exploration into the world of AI and machine learning, pushing the boundaries of what's possible with language models.
+### [MelonLoader Log Analyzer](https://github.com/AeroChoclate/ML-Log-Analyzer)
+A software designed to help you understand your MelonLoader log errors.
 
 ### [Schedule 1 Speed Mod](https://github.com/AeroChoclate/S1Speed/tree/main)
 A Schedule 1 mod that allows your to toggle a super speed with the press of a button.
