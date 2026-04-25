@@ -97,4 +97,10 @@ If you have an interesting project in mind or want to collaborate, feel free to 
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=aerochoclate&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
+
 **Thanks for visiting! Explore my repositories, check out my projects, and don't hesitate to reach out for collaboration. Let's build something amazing together! 🚀**
