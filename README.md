@@ -2,8 +2,6 @@
 
 Hello! I'm **AeroChoclate**, a Full Stack Developer passionate about building innovative web applications and exploring the frontiers of artificial intelligence. This is where I share my projects, ideas, and contributions to the tech community.
 
-<img src="https://raw.githubusercontent.com/AeroChoclate/AeroChoclate/snake-output/snake.svg" alt="Snake animation" />
-
 ---
 
 ## 🚀 About Me
